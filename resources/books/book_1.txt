@@ -1,4 +1,4 @@
-<p bookName:《高数考研三百道》 owner:单福操 author:霍金 price:34.0 bookCategory:学习资料 severalTimesNew:0.24 desc:300道考研题精选，助力上岸成功 >
+<p bookName:《高数考研三百道》 owner:李平 author:霍金 price:34.0 bookCategory:学习资料 severalTimesNew:0.24 desc:300道考研题精选，助力上岸成功 >
 <p bookName:《考研高数必刷300题》 owner:李平 author:周武 price:34.0 bookCategory:学习资料 severalTimesNew:0.78 desc:考研经典必刷300道题 >
 <p bookName:《造假的科学家》 owner:邱尚云 author:须田桃子 price:34.0 bookCategory:科学 severalTimesNew:0.78 desc:从“世纪大发现”到“载入科学史的丑闻”，与舍恩事件、黄禹锡事件并列的20世纪三大科研丑闻之一“STAP细胞事件”全揭秘 >
 <p bookName:《神经科学》 owner:赵四 author:王建军 price:34.0 bookCategory:科学 severalTimesNew:0.45 desc:该书体系新颖,全书只分四大部分,但包括了神经科学的方方面面 >
