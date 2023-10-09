@@ -1,0 +1,4 @@
+< username:单福操 password:1223 phone:1324343 addr:北京市朝阳小区 status:0 grade:4 role:admin >
+< username:邱尚云 password:1223 phone:13239842 addr:上海市南滨苑 status:0 grade:4 role:user >
+< username:罗计 password:1223 phone:132432343 addr:上海市南滨苑 status:0 grade:4 role:user >
+< username:江夏 password:1223 phone:132434453 addr:深圳市鹿鸣小区 status:0 grade:4 role:user >

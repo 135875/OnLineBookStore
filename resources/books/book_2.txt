@@ -1,0 +1,6 @@
+<p bookName:《红楼梦》 owner:江夏 author:曹雪芹 price:98.4 bookCategory:文学 severalTimesNew:0.0 desc:《红楼梦》是一部百科全书式的长篇小说。以宝黛爱情悲剧为主线，以四大家族的荣辱兴衰为背景，描绘出18世纪中国封建社会的方方面面，以及封建专制下新兴资本主义民主思想的萌动。结构宏大、情节委婉、细节精致，人物形象栩栩如生，声口毕现，堪称中国古代小说中的经典 >
+<p bookName:《我的世界》 owner:单福操 author:路垚 price:90.0 bookCategory:文学 severalTimesNew:0.23 desc:好看的书 >
+<p bookName:《史记》 owner:罗通 author:司马迁 price:34.0 bookCategory:历史 severalTimesNew:0.23 desc:《史记》是我国第一部通史，是“二十四史”中最早的一部，也是最重要的一部史书。全书共一百三十篇 >
+<p bookName:《中国历史通论》 owner:邱尚云 author:王健 price:34.0 bookCategory:历史 severalTimesNew:0.45 desc:全书分前编、后编、续编三部分。前编围绕中国历史发展的基本特征和演进脉络，进行纵横交错的专题探讨；后编意在回顾和反思“通史”撰写的百年经历 >
+<u bookName:《时间简史》 owner:王泽 author:霍金 price:190.0 bookCategory:科学 url:www.keosnoa.com desc:《时间简史》讲述是探索时间和空间核心秘密的故事，是关于宇宙本性的最前沿知识，包括我们的宇宙图像、空间和时间、膨胀的宇宙不确定性原理、基本粒子和自然的力、黑洞、黑洞不是这么黑、时间箭头等内容。第一版中的许多理论预言，后来在对微观或宏观宇宙世界观测中得到证实 >
+<u bookName:《人间滋味》 owner:王泽 author:汪曾祺 price:190.0 bookCategory:其他 url:www.keosnoawoejf.com desc:《人间滋味》是汪曾祺的一部经典美食散文集，内容涵盖五味人间、食肉和饮茶、吃食与文学、四方食事四个方面。 >
